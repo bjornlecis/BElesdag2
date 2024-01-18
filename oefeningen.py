@@ -9,4 +9,5 @@ print(int(getal*100)-50)
 print(int(getal*100)+50)
 print(random.randint(5,25))
 print(round(random.uniform(5.5,19.7),2))
+print("aangepast")
 
